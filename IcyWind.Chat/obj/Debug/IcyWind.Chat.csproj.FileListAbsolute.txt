@@ -1,0 +1,6 @@
+C:\Users\ed_12\source\repos\IcyWind-Private\IcyWind.Chat\bin\Debug\IcyWind.Chat.dll
+C:\Users\ed_12\source\repos\IcyWind-Private\IcyWind.Chat\bin\Debug\IcyWind.Chat.pdb
+C:\Users\ed_12\source\repos\IcyWind-Private\IcyWind.Chat\obj\Debug\IcyWind.Chat.csprojAssemblyReference.cache
+C:\Users\ed_12\source\repos\IcyWind-Private\IcyWind.Chat\obj\Debug\IcyWind.Chat.csproj.CoreCompileInputs.cache
+C:\Users\ed_12\source\repos\IcyWind-Private\IcyWind.Chat\obj\Debug\IcyWind.Chat.dll
+C:\Users\ed_12\source\repos\IcyWind-Private\IcyWind.Chat\obj\Debug\IcyWind.Chat.pdb
